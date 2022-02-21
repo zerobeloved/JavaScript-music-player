@@ -1,0 +1,27 @@
+/* home.css */
+.wrapper {
+    background-color: #eee;
+    width: 950px;
+    margin: 0 auto;
+  }
+  
+  .wrapper .header {
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    background-color: #2bb669;
+    color: #fff;
+    padding: 15px 0;
+  }
+  
+  .wrapper .content {
+    width: 100%;
+    min-height: 450px;
+  }
+  
+  .wrapper .player-control {
+    background-color: #f6f6f8;
+    height: 65px;
+    width: 100%;
+  }
